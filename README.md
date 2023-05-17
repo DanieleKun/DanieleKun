@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://github.com/DanieleKun/DanieleKun/assets/98526775/9f3f543a-36b9-4dbd-ace2-80ddd8c4e3cb"/>
+  <img src="https://i.ibb.co/ryyXsf3/ezgif-1-9a639d998b.gif"/>
   <h1>Hi there 👋 </br> I'm an Italian Jr. Full Stack Web Developer :computer:</h1>
 </div>
 
