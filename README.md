@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DanieleKun/DanieleKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  
+  <h1>Hi there 👋</h1>
+  <img src="https://github.com/DanieleKun/DanieleKun/assets/98526775/9f3f543a-36b9-4dbd-ace2-80ddd8c4e3cb" style="width: 1000px;"/>
+</div>
