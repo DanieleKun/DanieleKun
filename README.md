@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/22b22287602523.5dbd29081561d.gif"/>
+  <img src="https://imgur.com/a/eHAhNhT"/>
   <h1>Hi there 👋 </br> I'm an Italian Jr. Full Stack Web Developer :computer:</h1>
 </div>
 
