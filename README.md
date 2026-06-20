@@ -69,7 +69,7 @@
 <h3 align="left">🚀 Featured project:</h3>
 <p align="left">
   <a href="https://github.com/DanieleKun/tinsulto" target="_blank">
-    <strong>tinsulto</strong> – Full-stack project with Angular frontend and .NET backend
+    <strong>tinsulto</strong> – Full-stack project with NextJs
   </a>
 </p>
 
